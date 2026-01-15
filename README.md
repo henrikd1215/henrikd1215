@@ -1,6 +1,10 @@
 ## Hello, I'm Henrik Dabbs👋
 
-I'm a computer science major
+I'm a freshman intending to major in/majoring in computer science.
+
+### Projects
+
+projets
 
 <!--
 **henrikd1215/henrikd1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
