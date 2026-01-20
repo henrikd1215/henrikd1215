@@ -3,11 +3,13 @@
 I'm a freshman intending to major in/majoring in computer science.
 
 ### Projects
-
+## Here's what I'm working on!
 - Working on several game projects including (but not limited to)
-    - test
-    - tes2
-    - test3
+    - A topdown sandbox roguelike shooter based on the idea of
+    - A very early tower defense game
+    - A handful of other less polished games made for friends
+- Java based genetic algorithm
+- Etc.
 <!--
 **henrikd1215/henrikd1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
