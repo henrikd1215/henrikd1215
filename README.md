@@ -1,9 +1,9 @@
-## Hello, I'm Henrik Dabbs👋
+# Hello, I'm Henrik Dabbs👋
 
 I'm a freshman intending to major in/majoring in computer science.
 
-### Projects
-## Here's what I'm working on!
+## Projects
+### Here's what I'm working on!
 - Working on several game projects including (but not limited to)
     - A topdown sandbox roguelike shooter based on the idea of
     - A very early tower defense game
